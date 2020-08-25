@@ -1,1 +1,9 @@
 venv
+db.sqlite3
+__pycache__
+/static
+/media
+local_settings.py
+*.log
+*.pot
+*.pyc
